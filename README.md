@@ -1,7 +1,7 @@
 # amcharts.widgets
 ## 依赖
-![amcharts](http://amcharts.com/)
-![jqueryui](http://jqueryui.com/)
+[amcharts](http://amcharts.com/)
+[jqueryui](http://jqueryui.com/)
 
 提供了对amcharts插件的简单封装，把更多精力放在准备相应格式的数据上
 

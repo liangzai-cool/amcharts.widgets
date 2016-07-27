@@ -80,6 +80,8 @@ initClusteredBarChart: function(){
   });
 }
 ```
+### 最终效果示例
+![clusteredBarChart](https://raw.githubusercontent.com/liangzai-cool/amcharts.widgets/master/demo/clusteredBarChart.png)
 
 ## 2、multipleValueAxesChart的使用
 ### 折线图：
@@ -205,3 +207,5 @@ initPieChart: function(data){
   });
 }
 ```
+### 最终效果示例
+![pieChart](https://raw.githubusercontent.com/liangzai-cool/amcharts.widgets/master/demo/pieChart.png)
